@@ -1,0 +1,6 @@
+{
+  "name": "FBook Data Miner and Dubious Content Filter",
+  "version": "1.0",
+  "description": "A Javascript-based Chrome extension that scrapes for data and tags information available to you as a user of Facebook",
+  "default_locale": "en"
+}
